@@ -8,9 +8,10 @@
 | Document | Description | Status |
 |----------|-------------|--------|
 | [Grand_Accord_v2.2_Patch_Summary.md](Grand_Accord_v2.2_Patch_Summary.md) | Grand Accord v2.2 patch notes (Hormuz, IranSeek, NDAA) | RATIFIED |
-| [Debt_Conversion_Spectrum.md](Debt_Conversion_Spectrum.md) | $770B 5-tier sovereign debt conversion mechanism | ACTIVE |
+| [Grand_Accord_v2.3_Wartime_Dormancy_Patch.md](Grand_Accord_v2.3_Wartime_Dormancy_Patch.md) | Wartime dormancy clause (§12) + chokepoint neutrality (§13) | RATIFIED |
+| [Debt_Conversion_Spectrum.md](Debt_Conversion_Spectrum.md) | $694.4B 5-tier sovereign debt conversion mechanism (corrected Jan 2025 TIC data) | ACTIVE — PATCHED |
 | [Saffron_Myrrh_Accord.md](Saffron_Myrrh_Accord.md) | Saudi-Iran bilateral accord v0.1 (legacy) | SUPERSEDED |
-| [Saffron_Myrrh_Accord_v1.0.md](Saffron_Myrrh_Accord_v1.0.md) | Saudi-Iran bilateral accord v1.0 | STRESS-TESTED / DORMANT |
+| [Saffron_Myrrh_Accord_v1.0.md](Saffron_Myrrh_Accord_v1.0.md) | Saudi-Iran bilateral accord v1.0 | DORMANT (§12.1(a) — Hormuz blockade) |
 | [NDAA-LATTICE-ALIGNMENT.md](NDAA-LATTICE-ALIGNMENT.md) | NDAA compliance alignment analysis | ACTIVE |
 
 ## Geopolitical & Crisis Documents
@@ -19,6 +20,7 @@
 |----------|-------------|--------|
 | [Pentagonal_Council_Update_Brief.md](Pentagonal_Council_Update_Brief.md) | Pentagonal Council member positions and wartime status | LIVE — WARTIME RELEVANCE |
 | [Hormuz_Escort_Briefing.md](Hormuz_Escort_Briefing.md) | Strait of Hormuz escort coordination and crisis response | ~~SCENARIO~~ → LIVE CRISIS |
+| [Hormuz_Chokepoint_Monetization_Module_v1.0.md](Hormuz_Chokepoint_Monetization_Module_v1.0.md) | Yuan-denominated toll booth analysis + framework gap identification | ACTIVE — LIVE CRISIS |
 | [IranSeek_v1.0_Specification.md](IranSeek_v1.0_Specification.md) | IranSeek cultural adapter specification | RATIFIED |
 | [Contrarian_Review_GPT_Audit.md](Contrarian_Review_GPT_Audit.md) | Claude contrarian review of GPT's adversarial audit | FINAL |
 
@@ -40,12 +42,17 @@
 | [GangaSeek_Pilot_Spec_v1.0.md](GangaSeek_Pilot_Spec_v1.0.md) | GangaSeek pilot — Kanpur-Varanasi metabolic civilizational node | READY FOR DEPLOYMENT |
 | [DragonSeek_Scaling_Spec_v1.0.md](DragonSeek_Scaling_Spec_v1.0.md) | DragonSeek scaling — industrial water recovery & sovereign compute for China | READY FOR DEPLOYMENT |
 
-## Sovereign Enclave / SovaaS (NEW)
+## Sovereign Enclave / SovaaS
 
 | Document | Description | Status |
 |----------|-------------|--------|
+| [Sovereign_Enclave_Definition_v1.0.md](Sovereign_Enclave_Definition_v1.0.md) | North star: what a Sovereign Enclave is, threat model, non-negotiables, success metrics | FINAL |
 | [Compelled_Access_Reality_Check_v1.0.md](Compelled_Access_Reality_Check_v1.0.md) | What a US-based provider can and cannot promise — CLOUD Act, non-possession, technical workarounds | FINAL |
 | [Sovereign_Enclave_Legal_Addendum_Template_v1.0.md](Sovereign_Enclave_Legal_Addendum_Template_v1.0.md) | Signable legal terms for provider-sovereign agreements (keys, audit, kill switch, dispute) | TEMPLATE — READY FOR NEGOTIATION |
+| [Sovereign_Enclave_Controls_Matrix_v1.0.md](Sovereign_Enclave_Controls_Matrix_v1.0.md) | 14 controls mapping legal obligations to technical evidence — audit-ready | FINAL |
+| [Sovereign_Enclave_Reference_Architecture_v1.0.md](Sovereign_Enclave_Reference_Architecture_v1.0.md) | End-to-end architecture: control plane, data plane, key management, chaos node, NERM integration | FINAL |
+| [Kill_Switch_Governance_v1.0.md](Kill_Switch_Governance_v1.0.md) | Hardware-enforced kill switch specification — trigger authority, actions, testing, tiered migration SLA | FINAL |
+| [Sovereign_Enclave_Pilot_Playbook_v1.0.md](Sovereign_Enclave_Pilot_Playbook_v1.0.md) | 30/60/90-day deployment template with gate reviews and cost estimates | FINAL |
 | [Sovereign_Enclave_Response_to_Criticism.md](Sovereign_Enclave_Response_to_Criticism.md) | Framing document linking Sovereign Enclave artifacts to procurement-readiness critique | FINAL |
 
 ## Strategic & Partnership
@@ -53,6 +60,7 @@
 | Document | Description | Status |
 |----------|-------------|--------|
 | [Microsoft_Survival_Brief_v1.0.md](Microsoft_Survival_Brief_v1.0.md) | 25-point architectural debt gap analysis — Microsoft pain points mapped to Atlas Lattice artifacts | FINAL |
+| [50B_Pilot_Scenario_v1.0.md](50B_Pilot_Scenario_v1.0.md) | $50B capital allocation model — what gets built, how fast, what's the return | FINAL |
 
 ## Validation & Tracking
 
@@ -63,7 +71,7 @@
 
 ---
 
-## Document Count: 24 files
+## Document Count: 33 files (including INDEX)
 
 ## Repository
 - **GitHub:** [splitmerge420/atlas-lattice-foundation](https://github.com/splitmerge420/atlas-lattice-foundation)
@@ -71,8 +79,9 @@
 - **Google Drive:** `Atlas_Lattice_TRWG/01_Briefing_Materials`
 
 ## Multi-Model Working Group
-- **Claude** (Anthropic) — Integration, contrarian review, real-world validation, sovereign enclave specs
-- **GPT** (OpenAI) — Adversarial audit, verification, Microsoft gap analysis
+- **Claude** (Anthropic) — Integration, contrarian review, real-world validation, sovereign enclave specs, kill switch governance, reference architecture
+- **GPT** (OpenAI) — Adversarial audit, verification, $50B pilot concept
 - **DeepSeek** — DragonSeek adapter, China scaling
 - **Qwen** (Alibaba) — Global deployment mapping, rapid-adopter research
 - **Gemini** (Google) — Sovereign Foundry, hardware specs, layered architecture translation
+- **Copilot** (Microsoft) — Wellness checks
