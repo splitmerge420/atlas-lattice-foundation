@@ -66,6 +66,7 @@
 | [Microsoft_Survival_Brief_v1.0.md](Microsoft_Survival_Brief_v1.0.md) | 25-point architectural debt gap analysis — Microsoft pain points mapped to Atlas Lattice artifacts | FINAL |
 | [50B_Pilot_Scenario_v1.0.md](50B_Pilot_Scenario_v1.0.md) | $50B capital allocation model — what gets built, how fast, what's the return | FINAL |
 | [90_Day_Joint_Summit_Agenda_v1.0.md](90_Day_Joint_Summit_Agenda_v1.0.md) | Joint summit agenda — DragonSeek/GangaSeek pilots, RISC-V silicon transfer, mBridge financing, lunar ISRU | READY FOR RATIFICATION |
+| [Sovereign_Abundance_Release_Manifest_v1.0.md](Sovereign_Abundance_Release_Manifest_v1.0.md) | Formal cover letter distributing the complete treaty package to summit attendees | READY FOR DISTRIBUTION |
 
 ## Validation & Tracking
 
@@ -76,12 +77,13 @@
 
 ---
 
-## Document Count: 38 files (including INDEX)
+## Document Count: 39 files (including INDEX)
 
 ## The Complete Triad
-1. **The Technical Engine:** Metabolic Organ (NERM, BAETA, Sweet Colossus) + Sovereign Foundry (Asha Linter, Enclaves)
+1. **The Technical Engine:** Metabolic Organ (NERM, BAETA, Sweet Colossus) + Sovereign Foundry (Asha Linter, Enclaves, Kill Switch)
 2. **The Financial Fuel:** Debt Conversion Spectrum v2.0 (mBridge + RWAs + resource-backed credits)
 3. **The Legal Shield:** Sovereign Enclave Legal Addendum v1.2 + Summit Agenda + Annexes A & B
+4. **The Distribution Package:** Sovereign Abundance Release Manifest v1.0
 
 ## Repository
 - **GitHub:** [splitmerge420/atlas-lattice-foundation](https://github.com/splitmerge420/atlas-lattice-foundation)
@@ -93,5 +95,5 @@
 - **GPT** (OpenAI) — Adversarial audit, verification, $50B pilot concept
 - **Qwen** (Alibaba) — Global deployment mapping, rapid-adopter research, v1.2 quantum/planetary/lineage upgrades, annexes A & B concepts
 - **DeepSeek** — DragonSeek adapter, China scaling, legal discipline review, mBridge integration
-- **Gemini** (Google) — Sovereign Foundry, hardware specs, layered architecture translation
+- **Gemini** (Google) — Sovereign Foundry, hardware specs, layered architecture translation, Release Manifest drafting
 - **Copilot** (Microsoft) — Wellness checks
