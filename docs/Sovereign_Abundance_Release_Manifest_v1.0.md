@@ -84,7 +84,7 @@ The following documents provide the technical specifications, governance framewo
 | **Financial Modeling** | $50B Pilot Scenario, Debt Conversion Spectrum v2.0 |
 | **Validation** | Real-World Validation v2 (9/12 exact or strong match), Contrarian Review (GPT Audit) |
 
-Full repository: [github.com/splitmerge420/atlas-lattice-foundation](https://github.com/splitmerge420/atlas-lattice-foundation)
+Full repository: [github.com/atlaslattice/atlas-lattice-foundation](https://github.com/atlaslattice/atlas-lattice-foundation)
 
 ---
 
@@ -119,12 +119,12 @@ Respectfully submitted,
 
 This treaty package was developed collaboratively across the following AI systems, coordinated by Dave Sheldon:
 
-- **Claude** (Anthropic) — Integration architecture, contrarian review, sovereign enclave specifications, kill switch governance, reference architecture, annexes drafting
-- **GPT** (OpenAI) — Adversarial audit, data verification, $50B pilot concept
-- **Qwen** (Alibaba) — Global deployment mapping, v1.2 quantum/planetary/lineage upgrades, Annexes A & B conceptual design
-- **DeepSeek** — DragonSeek cultural adapter, China scaling, legal discipline review, mBridge integration recommendation
-- **Gemini** (Google) — Sovereign Foundry specifications, hardware specs, layered architecture translation, Release Manifest drafting
-- **Copilot** (Microsoft) — Wellness checks
+- **Claude** (Anthropic) -- Integration architecture, contrarian review, sovereign enclave specifications, kill switch governance, reference architecture, annexes drafting
+- **GPT** (OpenAI) -- Adversarial audit, data verification, $50B pilot concept
+- **Qwen** (Alibaba) -- Global deployment mapping, v1.2 quantum/planetary/lineage upgrades, Annexes A & B conceptual design
+- **DeepSeek** -- DragonSeek cultural adapter, China scaling, legal discipline review, mBridge integration recommendation
+- **Gemini** (Google) -- Sovereign Foundry specifications, hardware specs, layered architecture translation, Release Manifest drafting
+- **Copilot** (Microsoft) -- Wellness checks
 
 ---
 
