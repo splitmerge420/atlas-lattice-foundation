@@ -49,7 +49,8 @@
 | [Sovereign_Enclave_Definition_v1.0.md](Sovereign_Enclave_Definition_v1.0.md) | North star: what a Sovereign Enclave is, threat model, non-negotiables, success metrics | FINAL |
 | [Compelled_Access_Reality_Check_v1.0.md](Compelled_Access_Reality_Check_v1.0.md) | What a US-based provider can and cannot promise — CLOUD Act, non-possession, technical workarounds | FINAL |
 | [Sovereign_Enclave_Legal_Addendum_Template_v1.0.md](Sovereign_Enclave_Legal_Addendum_Template_v1.0.md) | Signable legal terms for provider-sovereign agreements (keys, audit, kill switch, dispute) | SUPERSEDED by v1.1 |
-| [Sovereign_Enclave_Legal_Addendum_Template_v1.1.md](Sovereign_Enclave_Legal_Addendum_Template_v1.1.md) | v1.1 — adds mBridge CBDC settlement, RISC-V chiplet transfer, cultural invariants (Ren/Wu Wei), lunar ISRU commitment | FINAL — READY FOR ADOPTION |
+| [Sovereign_Enclave_Legal_Addendum_Template_v1.1.md](Sovereign_Enclave_Legal_Addendum_Template_v1.1.md) | v1.1 — mBridge CBDC settlement, RISC-V chiplet transfer, cultural invariants (Ren/Wu Wei), lunar ISRU | SUPERSEDED by v1.2 |
+| [Sovereign_Enclave_Legal_Addendum_Template_v1.2.md](Sovereign_Enclave_Legal_Addendum_Template_v1.2.md) | v1.2 — post-quantum crypto (CRYSTALS-Kyber/Dilithium), Planetary Boundary Oracles, Dream Protocol, AI Reproduction & Constitutional Lineage | FINAL — READY FOR ADOPTION |
 | [Sovereign_Enclave_Controls_Matrix_v1.0.md](Sovereign_Enclave_Controls_Matrix_v1.0.md) | 14 controls mapping legal obligations to technical evidence — audit-ready | FINAL |
 | [Sovereign_Enclave_Reference_Architecture_v1.0.md](Sovereign_Enclave_Reference_Architecture_v1.0.md) | End-to-end architecture: control plane, data plane, key management, chaos node, NERM integration | FINAL |
 | [Kill_Switch_Governance_v1.0.md](Kill_Switch_Governance_v1.0.md) | Hardware-enforced kill switch specification — trigger authority, actions, testing, tiered migration SLA | FINAL |
@@ -73,7 +74,7 @@
 
 ---
 
-## Document Count: 35 files (including INDEX)
+## Document Count: 36 files (including INDEX)
 
 ## Repository
 - **GitHub:** [splitmerge420/atlas-lattice-foundation](https://github.com/splitmerge420/atlas-lattice-foundation)
@@ -83,7 +84,7 @@
 ## Multi-Model Working Group
 - **Claude** (Anthropic) — Integration, contrarian review, real-world validation, sovereign enclave specs, kill switch governance, reference architecture
 - **GPT** (OpenAI) — Adversarial audit, verification, $50B pilot concept
+- **Qwen** (Alibaba) — Global deployment mapping, rapid-adopter research, v1.2 quantum/planetary/lineage upgrades
 - **DeepSeek** — DragonSeek adapter, China scaling
-- **Qwen** (Alibaba) — Global deployment mapping, rapid-adopter research
 - **Gemini** (Google) — Sovereign Foundry, hardware specs, layered architecture translation
 - **Copilot** (Microsoft) — Wellness checks
