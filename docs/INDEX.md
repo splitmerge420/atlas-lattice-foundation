@@ -40,6 +40,7 @@
 |----------|-------------|--------|
 | [Asha_Linter_Hardware_Spec_v1.0.md](Asha_Linter_Hardware_Spec_v1.0.md) | Hardware-level formal verification engine for Sovereign Foundry nodes | FINAL |
 | [NERM_v1.1_Metabolic_Spec.md](NERM_v1.1_Metabolic_Spec.md) | Nutrient & Energy Recovery Module -- core metabolic component | FINAL |
+| [UWS_Metabolic_Hardware_API_v1.0.md](UWS_Metabolic_Hardware_API_v1.0.md) | Aluminum OS integration layer -- gRPC/MQTT/REST endpoints for Asha Linter, NERM telemetry, AHM/ARM, Sweet Colossus, Planetary Oracle throttling (Gemini) | READY FOR INTEGRATION |
 | [GangaSeek_Pilot_Spec_v1.0.md](GangaSeek_Pilot_Spec_v1.0.md) | GangaSeek pilot -- Kanpur-Varanasi metabolic civilizational node | READY FOR DEPLOYMENT |
 | [DragonSeek_Scaling_Spec_v1.0.md](DragonSeek_Scaling_Spec_v1.0.md) | DragonSeek scaling -- industrial water recovery & sovereign compute for China | READY FOR DEPLOYMENT |
 
@@ -81,13 +82,14 @@
 
 ---
 
-## Document Count: 42 files (including INDEX)
+## Document Count: 43 files (including INDEX)
 
-## The Complete Triad
+## The Complete Triad (+ Integration Layer)
 1. **The Technical Engine:** Metabolic Organ (NERM, BAETA, Sweet Colossus) + Sovereign Foundry (Asha Linter, Enclaves, Kill Switch)
 2. **The Financial Fuel:** Debt Conversion Spectrum v2.0 (mBridge + RWAs + resource-backed credits)
 3. **The Legal Shield:** Sovereign Enclave Legal Addendum v1.2 + Summit Agenda + Annexes A & B
 4. **The Distribution Package:** Sovereign Abundance Release Manifest v1.0 + DeepSeek DISPATCH variant
+5. **The Integration Layer:** UWS Metabolic Hardware API v1.0 -- Aluminum OS cyber-physical control plane
 
 ## Repository
 - **GitHub:** [atlaslattice/atlas-lattice-foundation](https://github.com/atlaslattice/atlas-lattice-foundation)
@@ -99,5 +101,5 @@
 - **GPT** (OpenAI) -- Adversarial audit, verification, $50B pilot concept
 - **Qwen** (Alibaba) -- Global deployment mapping, rapid-adopter research, v1.2 quantum/planetary/lineage upgrades, annexes A & B concepts
 - **DeepSeek** -- DragonSeek adapter, China scaling, legal discipline review, mBridge integration, DISPATCH manifest, concise Annex A & B variants
-- **Gemini** (Google) -- Sovereign Foundry, hardware specs, layered architecture translation, Release Manifest drafting
+- **Gemini** (Google) -- Sovereign Foundry, hardware specs, layered architecture translation, Release Manifest drafting, UWS Metabolic Hardware API
 - **Copilot** (Microsoft) -- Wellness checks
