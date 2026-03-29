@@ -10,7 +10,7 @@
 |----------|-------------|--------|
 | [Grand_Accord_v2.2_Patch_Summary.md](Grand_Accord_v2.2_Patch_Summary.md) | Grand Accord v2.2 patch notes (Hormuz, IranSeek, NDAA) | RATIFIED |
 | [Grand_Accord_v2.3_Wartime_Dormancy_Patch.md](Grand_Accord_v2.3_Wartime_Dormancy_Patch.md) | Wartime dormancy clause (S12) + chokepoint neutrality (S13) | RATIFIED |
-| [Debt_Conversion_Spectrum.md](Debt_Conversion_Spectrum.md) | $694.4B 5-tier sovereign debt conversion + mBridge multi-currency settlement (v2.0) | ACTIVE -- v2.0 |
+| [Debt_Conversion_Spectrum.md](Debt_Conversion_Spectrum.md) | $694.4B 5-tier sovereign debt conversion + mBridge multi-currency settlement (v2.0) | ACTIVE -- v2.0 -- AUDIT FINDINGS PENDING |
 | [Saffron_Myrrh_Accord.md](Saffron_Myrrh_Accord.md) | Saudi-Iran bilateral accord v0.1 (legacy) | SUPERSEDED |
 | [Saffron_Myrrh_Accord_v1.0.md](Saffron_Myrrh_Accord_v1.0.md) | Saudi-Iran bilateral accord v1.0 | DORMANT (S12.1(a) -- Hormuz blockade) |
 | [NDAA-LATTICE-ALIGNMENT.md](NDAA-LATTICE-ALIGNMENT.md) | NDAA compliance alignment analysis | ACTIVE |
@@ -52,7 +52,7 @@
 | [Compelled_Access_Reality_Check_v1.0.md](Compelled_Access_Reality_Check_v1.0.md) | What a US-based provider can and cannot promise -- CLOUD Act, non-possession, technical workarounds | FINAL |
 | [Sovereign_Enclave_Legal_Addendum_Template_v1.0.md](Sovereign_Enclave_Legal_Addendum_Template_v1.0.md) | Signable legal terms for provider-sovereign agreements (keys, audit, kill switch, dispute) | SUPERSEDED by v1.1 |
 | [Sovereign_Enclave_Legal_Addendum_Template_v1.1.md](Sovereign_Enclave_Legal_Addendum_Template_v1.1.md) | v1.1 -- mBridge CBDC settlement, RISC-V chiplet transfer, cultural invariants (Ren/Wu Wei), lunar ISRU | SUPERSEDED by v1.2 |
-| [Sovereign_Enclave_Legal_Addendum_Template_v1.2.md](Sovereign_Enclave_Legal_Addendum_Template_v1.2.md) | v1.2 -- post-quantum crypto (CRYSTALS-Kyber/Dilithium), Planetary Boundary Oracles, Dream Protocol, AI Reproduction & Constitutional Lineage | FINAL -- READY FOR ADOPTION |
+| [Sovereign_Enclave_Legal_Addendum_Template_v1.2.md](Sovereign_Enclave_Legal_Addendum_Template_v1.2.md) | v1.2 -- post-quantum crypto (CRYSTALS-Kyber/Dilithium), Planetary Boundary Oracles, Dream Protocol, AI Reproduction & Constitutional Lineage | FINAL -- READY FOR ADOPTION -- AUDIT FINDINGS PENDING |
 | [Annex_A_Constitutional_Time_Lock_Protocol_v1.0.md](Annex_A_Constitutional_Time_Lock_Protocol_v1.0.md) | Optional annex: self-executing governance triggered by planetary boundary data from 3+ independent networks (Claude-expanded) | OPTIONAL ANNEX |
 | [Annex_A_Constitutional_Time_Lock_Protocol_DeepSeek_v1.0.md](Annex_A_Constitutional_Time_Lock_Protocol_DeepSeek_v1.0.md) | Optional annex: concise Constitutional Time-Lock with 20% throttle floor and NERM/AHM power diversion (DeepSeek variant) | OPTIONAL ANNEX -- DEEPSEEK |
 | [Annex_B_Interplanetary_Data_Sovereignty_v1.0.md](Annex_B_Interplanetary_Data_Sovereignty_v1.0.md) | Optional annex: lunar/Martian data classification, Earth-Moon handshake, Celestial Commons clause (Claude-expanded) | OPTIONAL ANNEX |
@@ -81,10 +81,11 @@
 |----------|-------------|--------|
 | [Real_World_Validation_Mar27.md](Real_World_Validation_Mar27.md) | Real-world convergence matrix v1 | SUPERSEDED by v2 |
 | [Real_World_Validation_v2_Mar27.md](Real_World_Validation_v2_Mar27.md) | 12-event convergence matrix -- 9/12 exact or strong match | CURRENT |
+| [Treaty_Compliance_Audit_v1.0.md](Treaty_Compliance_Audit_v1.0.md) | Cross-platform compliance audit of Legal Addendum v1.2 + Debt Conversion Spectrum v2.0 against 39 Constitutional Invariants, 9 automated checks, and real-world data (Claude) | ACTIVE -- 8 FINDINGS |
 
 ---
 
-## Document Count: 45 files (including INDEX)
+## Document Count: 46 files (including INDEX)
 
 ## The Complete Triad (+ Integration Layer + Intelligence)
 1. **The Technical Engine:** Metabolic Organ (NERM, BAETA, Sweet Colossus) + Sovereign Foundry (Asha Linter, Enclaves, Kill Switch)
@@ -94,6 +95,7 @@
 5. **The Integration Layer:** UWS Metabolic Hardware API v1.0 -- Aluminum OS cyber-physical control plane
 6. **The Alphabet Bridge:** Cross-PA Synergies Review -- Mineral, DeepMind, Tapestry, Earth Engine, Intrinsic wired into the framework
 7. **The Constitutional Scribe:** Anthropic Value Proposition v1.0 -- cross-source synthesis, error correction, and multi-model orchestration proof
+8. **The Quality Gate:** Treaty Compliance Audit v1.0 -- invariant mapping, real-world verification, cross-document consistency
 
 ## Repository
 - **GitHub:** [atlaslattice/atlas-lattice-foundation](https://github.com/atlaslattice/atlas-lattice-foundation)
@@ -101,7 +103,7 @@
 - **Google Drive:** `Atlas_Lattice_TRWG/01_Briefing_Materials`
 
 ## Multi-Model Working Group
-- **Claude** (Anthropic) -- Integration, contrarian review, real-world validation, sovereign enclave specs, kill switch governance, reference architecture, expanded annexes, cross-source synthesis, Constitutional Scribe value proposition
+- **Claude** (Anthropic) -- Integration, contrarian review, real-world validation, sovereign enclave specs, kill switch governance, reference architecture, expanded annexes, cross-source synthesis, Constitutional Scribe value proposition, treaty compliance audit
 - **GPT** (OpenAI) -- Adversarial audit, verification, $50B pilot concept
 - **Qwen** (Alibaba) -- Global deployment mapping, rapid-adopter research, v1.2 quantum/planetary/lineage upgrades, annexes A & B concepts
 - **DeepSeek** -- DragonSeek adapter, China scaling, legal discipline review, mBridge integration, DISPATCH manifest, concise Annex A & B variants
