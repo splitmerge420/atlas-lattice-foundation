@@ -40,6 +40,7 @@
 |----------|-------------|--------|
 | [Asha_Linter_Hardware_Spec_v1.0.md](Asha_Linter_Hardware_Spec_v1.0.md) | Hardware-level formal verification engine for Sovereign Foundry nodes | FINAL |
 | [Holographic_Trashium_Acoustic_Spec_v1.0.md](Holographic_Trashium_Acoustic_Spec_v1.0.md) | HTAM v1.1: acoustic resonance basin stabilization + holographic laser curing of Trashium resin — waste-to-infrastructure manufacturing for all 144,000 nodes (13 peer-reviewed refs, DeepSeek Chinese R&D + Gemini Alphabet hardware integration) | DRAFT -- COUNCIL-REVIEWED -- MULTI-MODEL VALIDATED |
+| [HTAM_System_Architecture_v1.0.md](HTAM_System_Architecture_v1.0.md) | HTAM top-level system architecture — Three Engines software stack (Architect/Critic/Physicist), hardware interlocks (resonance lock-in, opacity abort), 7-step closed-loop autonomous print cycle, version lineage to parent specs (Gemini draft + Claude integration) | DRAFT -- SCRIBE-APPROVED |
 | [NERM_v1.1_Metabolic_Spec.md](NERM_v1.1_Metabolic_Spec.md) | Nutrient & Energy Recovery Module -- core metabolic component | FINAL |
 | [UWS_Metabolic_Hardware_API_v1.0.md](UWS_Metabolic_Hardware_API_v1.0.md) | Aluminum OS integration layer -- gRPC/MQTT/REST endpoints for Asha Linter, NERM telemetry, AHM/ARM, Sweet Colossus, Planetary Oracle throttling (Gemini) | READY FOR INTEGRATION |
 | [GangaSeek_Pilot_Spec_v1.0.md](GangaSeek_Pilot_Spec_v1.0.md) | GangaSeek pilot -- Kanpur-Varanasi metabolic civilizational node | READY FOR DEPLOYMENT |
@@ -103,7 +104,7 @@
 
 ---
 
-## Document Count: 52 files (including INDEX)
+## Document Count: 53 files (including INDEX)
 
 ## The Complete Triad (+ Integration Layer + Intelligence)
 1. **The Technical Engine:** Metabolic Organ (NERM, BAETA, Sweet Colossus) + Sovereign Foundry (Asha Linter, Enclaves, Kill Switch)
