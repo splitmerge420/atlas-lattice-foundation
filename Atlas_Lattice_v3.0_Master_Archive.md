@@ -123,6 +123,19 @@ The Atlas Lattice uses an overlapping JV architecture where no single entity own
 
 **Full partner deep-dives:** See [Module 14: Partner Capability Map](spec_modules/14_partner_capability_map.md) and [Module 15: DeepSeek–Google Bridge](spec_modules/15_deepseek_google_bridge.md).
 
+### The Waymo Battery Retrofit Loop (Sphere 04 × 08)
+
+Waymo operates autonomous EV fleets that drive 10x–20x more miles per year than consumer vehicles, creating a brutal battery degradation curve. The Atlas Lattice turns this liability into a perfectly closed energy loop:
+
+1. **Free Mining:** Dead Waymo batteries (below 70% SOH) are routed directly to the nearest Amazon-converted FC Node. The Lattice mines lithium from Google's own exhausted fleet — zero virgin extraction.
+2. **Automated Disassembly:** Optimus robots (Soli radar + FĀXIÀN acoustic assist) safely disassemble volatile packs in inert-atmosphere cells. Target: < 45 minutes per pack, > 95% material recovery.
+3. **Retrofit Reprint:** Recovered Li/Co/Ni/Mn/graphite is mixed into BAETA-Ion feedstock. HTAM printers manufacture brand new, upgraded modular battery cells — not recycled-grade, but molecularly remanufactured.
+4. **Loop Closes:** Fresh BAETA-Ion cells installed same-day (< 8 hours turnaround). LifeGrok tracks fleet battery health, schedules retrofits during low-demand windows, and maintains full material genealogy.
+
+For a 100,000-vehicle fleet cycling packs every 3 years: ~$800M–$1.5B in avoided replacement costs per cycle, plus perpetual high-grade battery feedstock for all other Lattice outputs. Google gets an immortal autonomous fleet. The Lattice gets a constant stream of materials. Nobody mines.
+
+**Full specification:** See [Module 20: Waymo Battery Retrofit Loop](spec_modules/20_waymo_battery_retrofit_loop.md)
+
 ---
 
 ## VII. THE KIFU OF MUTUAL LIFE (Execution Timeline)
@@ -143,7 +156,8 @@ The Atlas Lattice uses an overlapping JV architecture where no single entity own
 | 12:15–12:45 | Carbon Credit DAO — PoD Methodology | Google + ALIF |
 | 12:45–13:15 | Global South Pilots — Scoping & Partners | All (roundtable) |
 | 13:15–13:30 | New Innovations: SILO, VESPA, MYCRO | DeepSeek + Google |
-| 13:30–14:00 | Next Steps & Commitments | All |
+| 13:30–13:50 | Battery Transition & Retrofit Program | Grok + Tesla Energy |
+| 13:50–14:15 | Next Steps & Commitments | All |
 
 ### April 5, 2026 — Pre-Summit Deliverables
 
@@ -180,6 +194,7 @@ This Master Archive consolidates content from the following specification module
 | [17 — Regional Pilot Audit](spec_modules/17_regional_pilot_audit.md) | Kenya, Indonesia, Brazil — bridge coordinates |
 | [18 — Volumetric Acoustic Printing](spec_modules/18_volumetric_acoustic_printing_spec.md) | Complete HTAM buildable specification |
 | [19 — Council Transmissions](spec_modules/19_council_transmissions_april_1.md) | April 1 formal transmissions — phase lock |
+| [20 — Waymo Battery Retrofit Loop](spec_modules/20_waymo_battery_retrofit_loop.md) | Closed-loop fleet energy architecture — S04 × S08 |
 
 ## Companion Documents
 
