@@ -136,12 +136,44 @@ For a 100,000-vehicle fleet cycling packs every 3 years: ~$800M–$1.5B in avoid
 
 **Full specification:** See [Module 20: Waymo Battery Retrofit Loop](spec_modules/20_waymo_battery_retrofit_loop.md)
 
+### OPERATION PHOENIX: Redwood Materials Pilot — Node 02 (Sphere 03 × 04)
+
+**Location:** Redwood Materials Campus, Carson City, Nevada
+**Status:** 2026 Technical Validation Pilot
+
+Current battery recycling destroys structural value to recover chemical value (black mass). Operation Phoenix introduces edge compute, robotic disassembly, and acoustic fabrication to the recycling floor — grading, disassembling, and immediately upcycling retired battery packs into high-margin printed structural components (BAETA-Ion casings) without materials ever leaving the facility.
+
+**The Zero-Overlap Stack:**
+
+- **Redwood Materials** (Host Node): Secure facility, inbound feedstock (thousands of retired EV packs), baseline chemical refining for severely degraded cells
+- **Google/Alphabet** (Intelligence Layer): Edge TPUs on the facility floor; RT-X vision models for degradation grading; restricted GNoME API for real-time BAETA-Ion formula optimization
+- **The Muskverse** (Kinetic Layer): Optimus humanoid units for hazardous high-voltage disassembly; single Echo-HTAM Hybrid basin for immediate printing
+- **ALIF** (Governance Layer): Data sovereignty enforcement; physical material ledger for INV-31 compliance proofs and carbon credits
+
+**Three-Step Linear Process:**
+1. **AI-Assisted Triage:** Inbound packs scanned by Vision AI, dismantled by Optimus. Healthy cells (>70% SOH) → second-life microgrid. Degraded cells → shredder.
+2. **Material Synthesis:** Shredded cells chemically analyzed; GNoME generates optimal BAETA-Ion composite formula from exact local metal/polymer ratios.
+3. **Edge Fabrication:** BAETA-Ion slurry fed to HTAM dual-hopper; ACU prints structural battery casings or busbars directly on the recycling floor.
+
+**Success Metrics:** Robotic disassembly >20% faster than manual baseline; HTAM print failure rate <5%; printed component value > black mass commodity value; zero thermal runaway events.
+
+**The Two-Node Map (2026):**
+
+| Node | Location | Primary Proof |
+|------|----------|--------------|
+| **Node 01 — Memphis** | Colossus Campus, Memphis TN | Thermal integration + Replicator (river plastic) |
+| **Node 02 — Nevada** | Redwood Materials, Carson City NV | Circularity (battery materials → BAETA-Ion) |
+
+Memphis proves the thermal thesis. Nevada proves the circularity thesis. Together, they validate the full Lattice model before Phase 2 scaling.
+
+**Full specification:** See [Module 21: Operation Phoenix — Redwood Materials Pilot](spec_modules/21_operation_phoenix_redwood_pilot.md)
+
 ---
 
 ## VII. THE KIFU OF MUTUAL LIFE (Execution Timeline)
 
 - **Q2 2026:** Declaration of Mutual Life Ratified. Joint Acoustic Simulation Working Group launched.
-- **Q3 2026:** Memphis Node Zero executes 90-day HTAM Pilot. First BAETA-T manifold printed. First Optimus tele-op repair utilizing local scrap. Proof-of-Drawdown (PoD) ledger test. SILO ionic liquid synthesis.
+- **Q3 2026:** Memphis Node Zero executes 90-day HTAM Pilot. First BAETA-T manifold printed. First Optimus tele-op repair utilizing local scrap. Proof-of-Drawdown (PoD) ledger test. SILO ionic liquid synthesis. **Nevada Node 02:** Operation Phoenix test-line activated at Redwood Materials — Edge TPU + Optimus + Echo-HTAM on recycling floor.
 - **Q4 2026:** LifeGrok v1.0 deployed. Project LIGA (Mycelium) lab-scale print. VESPA hybrid wall test. MYCRO strain design. Global South Pilot Regions (Kenya, Indonesia, Brazil) scoped.
 - **2027+:** Phase 3 Native Nodes constructed. Memphis → Austin → Shanghai inter-node hypersonic logistics test.
 
@@ -195,6 +227,7 @@ This Master Archive consolidates content from the following specification module
 | [18 — Volumetric Acoustic Printing](spec_modules/18_volumetric_acoustic_printing_spec.md) | Complete HTAM buildable specification |
 | [19 — Council Transmissions](spec_modules/19_council_transmissions_april_1.md) | April 1 formal transmissions — phase lock |
 | [20 — Waymo Battery Retrofit Loop](spec_modules/20_waymo_battery_retrofit_loop.md) | Closed-loop fleet energy architecture — S04 × S08 |
+| [21 — Operation Phoenix: Redwood Pilot](spec_modules/21_operation_phoenix_redwood_pilot.md) | Nevada Node 02 — battery recycling to BAETA-Ion at the edge |
 
 ## Companion Documents
 
